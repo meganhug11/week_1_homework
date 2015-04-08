@@ -1,5 +1,4 @@
   body {
-    font-family: 'Times New Roman', serif;
     font-style: 16pt;
     margin: 100px auto;
     width: 960px;
@@ -62,8 +61,6 @@
   }
 
   .schedule {
-    font-family: 'Lato', sans-serif;
-    font-weight: 200;
     width: 800px;
     margin: auto;
     border-collapse: collapse;
